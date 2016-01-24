@@ -1,0 +1,35 @@
+/*--------------------------------------------------------------
+Print styles for codex
+--------------------------------------------------------------*/
+@page {
+	/*size: A3 landscape;*/
+	/* A4 by witdh */
+	/*size: 297mm 600mm;*/
+	/* A3 by witdh */
+	size: 420mm 1100mm;
+	margin: 0;
+}
+
+
+body {
+	background: #fff;
+}
+
+#page {
+	margin: 0;
+}
+
+
+
+/*--------------------------------------------------------------
+create margin content
+--------------------------------------------------------------*/
+
+/* unsupported? */
+@page { 
+	@top-right {
+		content: string(doctitle);
+		margin: 30pt 0 10pt 0;
+		font-size: 8pt;
+	}
+}

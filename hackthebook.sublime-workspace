@@ -1,0 +1,1364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tect",
+				"tect_tags"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"out",
+				"out	CSS outline"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"pos",
+				"post-thumbnail"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"botto",
+				"text-bottom"
+			],
+			[
+				"up",
+				"up_left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border-bot",
+				"border-bottom-style"
+			],
+			[
+				"border-r",
+				"border-top-left-radius"
+			],
+			[
+				"table",
+				"table-caption"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"page",
+				"page-break-after"
+			],
+			[
+				"list",
+				"list-c	list-style-type: circle;"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"sele",
+				"selection"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/archives/_wip/hackthebook/documentation.txt",
+			"settings":
+			{
+				"buffer_size": 1764,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 4597,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/print.css",
+			"settings":
+			{
+				"buffer_size": 594,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/core.js",
+			"settings":
+			{
+				"buffer_size": 2559,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mockup_02.html",
+			"settings":
+			{
+				"buffer_size": 4561,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 344.0,
+		"last_filter": "tabs",
+		"selected_items":
+		[
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"sh",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"pas",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"past",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"num",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"number",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"mark",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uniqu",
+				"Permute Lines: Unique"
+			],
+			[
+				"markdown",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"markdo",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"synta",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"omni",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"aca",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"multima",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"cite",
+				"Citer: Search"
+			],
+			[
+				"acade",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"acad",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax markd",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"citer",
+				"Citer: Search"
+			],
+			[
+				"c",
+				"Citer: Show All"
+			],
+			[
+				"cit",
+				"Citer: Search"
+			],
+			[
+				"markd lis",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"multim",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"paste",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"shuf",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"pa",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"shu",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"shuff",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"calcula",
+				"Calculate"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"evalua",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"paste ",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"paste line",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"lines",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"pastr",
+				"Text Pastry: Menu"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"text",
+				"Text Pastry: Range"
+			],
+			[
+				"syntax pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntaxt txt",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle",
+				"Toggle Distractoin Free Window Mode"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"sta",
+				"View: Toggle Status Bar"
+			],
+			[
+				"synta p",
+				"Set Syntax: PHP"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax GFM",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"multimar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"warp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"reove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"snippe",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"case",
+				"Convert Case: Swap Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"synta mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"syntax ma",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"syntaxphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"caps",
+				"Convert Case: Swap Case"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Section Comment"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"live",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"whit",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"high",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"hgh",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"syn text",
+				"Set Syntax: Textile"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 439.0,
+		"history":
+		[
+			"print('\\n'*10)",
+			"os.system(\"clear\")",
+			"/clear",
+			"clear",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/archives/www/hackthebook"
+	],
+	"file_history":
+	[
+		"/D/archives/www/citytales.eu/assets/style.css",
+		"/D/archives/_wip/hackthebook/mockup/mockup_02.html",
+		"/D/archives/_wip/hackthebook/mockup/js/core.js",
+		"/D/archives/_wip/hackthebook/mockup/css/simplegrid.css",
+		"/D/archives/_wip/hackthebook/mockup/css/print.css",
+		"/D/archives/www/hackthebook/css/style.css",
+		"/D/archives/_wip/hackthebook/mockup/css/style.css",
+		"/D/archives/_git/ivcalc/ivcalcxy.html",
+		"/D/archives/_wip/hackthebook/mockup/index.html",
+		"/D/archives/_wip/hackthebook/muzine/README.md",
+		"/D/archives/_wip/hackthebook/muzine/index.html",
+		"/D/archives/_wip/hackthebook/muzine/CNAME",
+		"/D/archives/_wip/hackthebook/muzine/.gitattributes",
+		"/D/archives/_wip/hackthebook/muzine/.gitignore",
+		"/D/archives/_wip/hackthebook/html_slides/about.txt",
+		"/C/Users/Heracles/AppData/Roaming/IrfanView/i_view32.ini",
+		"/D/archives/www/tectgr/archi.tect.gr/wp-content/themes/tect/style.css",
+		"/D/archives/_wip/hackthebook/mockup/js/script.js",
+		"/D/archives/www/citytales.eu/index.html",
+		"/C/Users/Heracles/AppData/Local/Temp/7zOC770CBB8/README.md",
+		"/D/archives/digital-arts/videoart/crossroads/instagram/downloader.py",
+		"/D/Dropbox/yggdrasil/software-list.md",
+		"/D/archives/digital-arts/videoart/crossroads/instagram/run_download.py",
+		"/D/archives/digital-arts/videoart/crossroads/documentation.txt",
+		"/D/archives/digital-arts/videoart/interpission/about.txt",
+		"/C/Users/Heracles/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Heracles/AppData/Local/Temp/fz3temp-1/test.php",
+		"/C/Users/Heracles/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/Heracles/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Heracles/Desktop/test.php",
+		"/D/archives/digital-arts/videoart/crossroads/names/Syrian_text-to-voice.txt",
+		"/C/Users/Heracles/Desktop/crossroads/documentation.txt",
+		"/D/Dropbox/shared/RedPaleDot/unity/parse-test_documentation.txt",
+		"/D/archives/_wip/unity/parse-test_02/Assets/dataTest.cs",
+		"/D/archives/_wip/unity/parse-test_02/Assets/dataTestOld.cs",
+		"/D/archives/_wip/unity/parse-test_02/Assets/dontDestroy.cs",
+		"/D/archives/_wip/unity/parse-test_02/Assets/gotoScene.cs",
+		"/D/archives/_wip/unity/parse-test_02/Assets/myRoomID.cs",
+		"/D/archives/_wip/unity/parse-test_02/Assets/getNumberOfPlayersInRoom.cs",
+		"/D/archives/_wip/unity/parse-test_02/Assets/link.xml",
+		"/D/archives/digital-arts/videoart/about.txt",
+		"/C/Python27/Lib/site-packages/audiogrep/audiogrep.py",
+		"/C/Python27/Lib/site-packages/videogrep/videogrep.py",
+		"/C/Users/Heracles/Desktop/crossroads/video/script_parts_concat.bat",
+		"/C/Users/Heracles/Desktop/crossroads/video/temp.bat",
+		"/D/My Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/D/archives/digital-arts/videoart/amelleia/notes.txt",
+		"/C/Users/Heracles/Desktop/crossroads/names/Syrian_text-to-voice.txt",
+		"/D/archives/digital-arts/debtron/video/debtron_narration.txt",
+		"/D/archives/digital-arts/debtron/notes.txt",
+		"/D/archives/digital-arts/videoart/amelleia/script_parts_concat.bat",
+		"/C/Users/Heracles/Desktop/crossroads/video/script_parts_intermediate.bat",
+		"/C/Users/Heracles/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Heracles/Desktop/crossroads/video/parts_list - Copy.txt",
+		"/D/archives/digital-arts/videoart/amelleia/script_parts_split.bat",
+		"/C/Users/Heracles/Desktop/crossroads/video/parts_list.txt",
+		"/C/Users/Heracles/Desktop/crossroads/video/samples/temp.txt",
+		"/C/Users/Heracles/Desktop/crossroads/video/download_youtube.py",
+		"/C/Users/Heracles/Desktop/crossroads/video/youtube_search_and_download.py",
+		"/C/Users/Heracles/Desktop/crossroads/video/parts_concat.mp4.transcription.txt",
+		"/C/Users/Heracles/Desktop/crossroads/video/audiogrep.log",
+		"/D/archives/digital-arts/videoart/amelleia/script_parts_build.bat",
+		"/D/archives/digital-arts/videoart/amelleia/parts_list.txt",
+		"/D/archives/digital-arts/videoart/amelleia/sound_log.txt",
+		"/D/archives/digital-arts/videoart/amelleia/temp.txt",
+		"/D/archives/digital-arts/videoart/amelleia/about.txt",
+		"/C/Users/Heracles/Desktop/crossroads/video/samples/1.mp4.transcription.txt",
+		"/C/Users/Heracles/Downloads/fake/audiogrep.log",
+		"/C/Users/Heracles/Downloads/fake/fake.mp4.transcription.txt",
+		"/C/Users/Heracles/Downloads/fake/fake.srt",
+		"/C/Users/Heracles/Downloads/fake/audiogrep.txt",
+		"/C/Python27/Scripts/audiogrep",
+		"/C/Users/Heracles/Desktop/crossroads/pocketsphinx/bin/Release/Win32/pocketsphinx_continuous.pdb",
+		"/D/archives/CityTales/07_app/version_02/assets/tutorial/intro_POI.txt",
+		"/C/Users/Heracles/Downloads/Strings.xml",
+		"/D/archives/digital-arts/cinema/project-m/homunculus_plot_01.txt",
+		"/M/_inbox/F for Fake (1973)/F.for.Fake.1973.720p.BluRay.x264.YIFY.srt",
+		"/C/Users/Heracles/Downloads/The.Lobster.2015.720p.WEB-DL.950MB.ShAaNiG-1.srt",
+		"/C/Python27/Scripts/videogrep",
+		"/C/Users/Heracles/AppData/Local/Temp/7zO48239102/README.txt",
+		"/C/Program Files (x86)/Common Files/Adobe/SLCache/X19zbGNfZmVhdHVyZXNfXw==.slc",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/archives/_wip/unity/parse-test_01/Assets/dataTest.cs",
+		"/D/archives/_wip/wireframes/intro_POI.txt",
+		"/C/Users/Heracles/Desktop/New Text Document.txt",
+		"/C/Users/Heracles/Downloads/Adobe Photoshop CC 2015 (20150529.r.88) (32+64Bit) + Crack/ReadMe.txt",
+		"/C/Users/Heracles/Desktop/Taiga_Introduction_by_Nikos_Alexandris_January_2016.txt",
+		"/G/Adobe Photoshop CC 2015 (20150529.r.88) (32+64Bit) + Crack/ReadMe.txt",
+		"/D/Dropbox/documents/free-images.md",
+		"/D/Dropbox/documents/free-internet.md",
+		"/D/Dropbox/documents/﻿Εισαγωγή στο WIFI στο κτίριο του egg 1.md",
+		"/C/Users/Heracles/AppData/Local/Temp/fz3temp-1/wp-config 2.php",
+		"/C/Users/Heracles/AppData/Local/Temp/7zO83563397/Readme.txt",
+		"/D/Dropbox/yggdrasil/terminal-commands.md",
+		"/C/Users/Heracles/AppData/Local/Temp/7zO835EB942/Readme.txt",
+		"/C/Users/Heracles/AppData/Local/Temp/7zO8351B8D3/Read me - iPack Icon Patcher!.txt",
+		"/D/Dropbox/yggdrasil/1439651395584.pdf",
+		"/D/Dropbox/yggdrasil/yggdrasil/mail.py",
+		"/D/archives/texts/inspirational/John-Maeda.txt",
+		"/D/Dropbox/yggdrasil/yggdrasil/ratatoskr.sh",
+		"//192.168.1.1/ratatoskr/media.log",
+		"/C/Users/Heracles/Desktop/firefox.txt",
+		"/D/archives/www/citytales.eu/tour/index.html",
+		"/C/Users/Heracles/AppData/Local/Temp/fz3temp-1/nintendorip.rb",
+		"/C/Users/Heracles/Desktop/newsletter.csv",
+		"/D/archives/_projects/arduino/ASFA mailList.rtf",
+		"/D/Dropbox/yggdrasil/Firefox/userChrome.css",
+		"/D/archives/digital-arts/threedee/studies/New folder/diceface_generator/dice_face_generator.pde",
+		"/C/Users/Heracles/AppData/Local/Temp/Acropolis Museum — City Tales.htm",
+		"/C/Users/Heracles/Desktop/unity/parse-test/Assets/dataTest.cs",
+		"/C/Users/Heracles/Desktop/codex.txt",
+		"/D/archives/www/heracl.es/site/snippets/header.php",
+		"/D/archives/www/heracl.es/site/snippets/musings.php",
+		"/D/archives/www/heracl.es/site/accounts/heracles.php",
+		"/D/archives/www/heracl.es/site/snippets/menu.php",
+		"/D/archives/www/heracl.es/site/languages/el.php",
+		"/D/archives/www/heracl.es/site/languages/en.php",
+		"/D/archives/www/heracl.es/content/error/error.el.txt",
+		"/D/archives/www/heracl.es/content/error/error.en.txt",
+		"/D/archives/www/heracl.es/site/snippets/footer.php",
+		"/D/archives/www/heracl.es/content/site.el.txt",
+		"/D/archives/www/heracl.es/content/home/home.el.txt",
+		"/D/archives/www/heracl.es/content/home/home.en.txt",
+		"/D/archives/www/heracl.es/site/blueprints/error.php",
+		"/D/archives/www/heracl.es/site/blueprints/default.php",
+		"/D/archives/www/heracl.es/site/templates/default.php",
+		"/D/archives/www/heracl.es/site/templates/home.php",
+		"/D/archives/www/heracl.es/site/templates/musings.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"D:\\archives\\www\\tectgr\\archi.tect.gr\\wp-content\\",
+			"D:\\archives\\www\\tectgr\\archi.tect.gr\\wp-content\\themes\\tect",
+			"D:\\www\\tectgr\\archi.tect.gr\\wp-content\\themes\\tect",
+			"D:\\www\\gk_corporate2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br><br>",
+			"#fff",
+			"background",
+			"%);\n",
+			"[Menu",
+			"red",
+			"; ",
+			"p class",
+			"laboriosam",
+			"\\",
+			"   ",
+			"scan",
+			" ",
+			"|",
+			"480",
+			"640",
+			"720",
+			"-s 640x480",
+			"1920x1080",
+			"'",
+			"samples\\temp",
+			"'",
+			"mpegts",
+			"absf",
+			"/",
+			"retreive_fr_playlist",
+			"set_num_playlist_to_extract",
+			"europe",
+			"gree",
+			"\\",
+			"fakish",
+			"faked",
+			"fake",
+			"gamebeg",
+			"gamebei",
+			"flag",
+			"FLAG",
+			"flag",
+			"FLAG",
+			"flag",
+			"FLAG",
+			"flag",
+			"FLAG",
+			"flag",
+			"FLAG",
+			"flag",
+			"FLAG",
+			"flag",
+			"FLAG",
+			"flag",
+			"FLAG",
+			"flag",
+			"#",
+			"info",
+			"stegi",
+			"-1024x721",
+			"-1024x722",
+			"icon",
+			"homonculus",
+			",",
+			", ",
+			",",
+			"proj",
+			"project",
+			"projects",
+			"save",
+			"mp3",
+			"hr",
+			"2px",
+			"2px s",
+			"2px solod",
+			"red",
+			"Source Sans Pro",
+			"sourcesanspro",
+			"feed",
+			"<title",
+			"title",
+			"jque",
+			"#logo",
+			"shiny",
+			"#logo",
+			"numbers",
+			"value",
+			"value_",
+			"value",
+			"numbers",
+			"values",
+			"numbers",
+			"knob_",
+			"value_",
+			"Alpha",
+			"χρήστ",
+			"μία",
+			"nodety",
+			"sodipodi",
+			"mce-EMAIL",
+			"red",
+			"subscribe",
+			"news",
+			"newsletter",
+			"./averta",
+			"sans",
+			"webfonts/2FB5BF_0_0",
+			"\n\n",
+			"\n",
+			"PDF",
+			"--------------------",
+			"Κτηρια",
+			"κτηρια",
+			"**",
+			"[ΔΙΑΓΡΑΦΗ]",
+			", ",
+			"debtron_loop",
+			"images",
+			"max-w",
+			"    ",
+			"   ",
+			"  ",
+			" ()",
+			"monsera",
+			".container",
+			"..",
+			"background",
+			"border",
+			"content",
+			"footer",
+			"my-include",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			" ",
+			"_",
+			"-",
+			"[caption align=\\\\\"marginalia$1[/caption]",
+			"[caption align=\\\"marginalia\\\"",
+			"[caption align=\\\\\"marginalia$1[/caption]",
+			"[caption align=\\\"marginalia$1[/caption]",
+			"[caption align=\\\"marginalia($1)[/caption]",
+			"[caption align=\\\"marginalia\\\"($1)width=\\\"1\\\"]",
+			"[caption align=\\\"marginalia\\\" width=\\\"1\\\"]",
+			"</div>",
+			"<div class=\\\"marginalia\\\">",
+			"<div class=\\\"marginalia ",
+			"ς\n",
+			"ς ",
+			" ",
+			"",
+			" {",
+			"{",
+			"pages",
+			"edit",
+			"msgstr",
+			"msgid",
+			"__msgid",
+			"translate(",
+			" ",
+			"\n\n ",
+			"\n\n",
+			"",
+			" ",
+			"beta",
+			"/test-3d_sphere_",
+			"",
+			":after",
+			":before",
+			":hover",
+			":last",
+			":not",
+			":first",
+			":nth",
+			" !important;",
+			": ",
+			" {",
+			"{",
+			"",
+			"–",
+			"·",
+			" ",
+			"=\"1\"",
+			" ",
+			"",
+			".home",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"[/url]",
+			"]",
+			"modified",
+			"-EN.",
+			".",
+			"src=\"./",
+			"src=\"",
+			"rem",
+			"",
+			"\n",
+			" ",
+			"#main"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/archives/_wip/hackthebook/documentation.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1763,
+								1763
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "markdown",
+							"dfw_side_bar_vis": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2621,
+								2621
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "css",
+							"dfw_side_bar_vis": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/print.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "css",
+							"dfw_side_bar_vis": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "javascript",
+							"dfw_side_bar_vis": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "mockup_02.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4561,
+								4561
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"dfw_side_bar_vis": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "",
+	"project": "hackthebook.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scro",
+				"scripts/core.js"
+			],
+			[
+				"sing",
+				"single.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"rea",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,309 @@
+/*--------------------------------------------------------------
+codex
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+Normalize styles, via https://necolas.github.io/normalize.css/
+--------------------------------------------------------------*/
+@import url('./normalize.css');
+
+
+body {
+	margin: 0;
+
+	background: #ccc;
+}
+
+#page {
+	position: relative;
+	overflow: hidden;
+
+	/* A3 by width */
+	max-width: 420mm;
+	min-height: 90vh;
+	margin: 3rem auto;
+	padding: 6rem 0 6rem 0;
+
+	background-color: #fff;
+	/*background-image: url('./background.png');*/
+	box-shadow: 0 0 2rem rgba(0,0,0,0.3);
+
+	/*mask: url('./sawtooth.svg#mask');*/
+	-webkit-mask-box-image: url('./sawtooth.svg') 10 0 10 0 repeat;
+
+	/*outline: 1px solid red;*/
+}
+
+div[class^="col-"] { /* DEBUG */
+	/*outline: 1px solid yellow;*/
+}
+
+
+::-moz-selection {
+	background: #000;
+	color: #fff;
+	text-shadow: none;
+}
+::selection {
+	background: #000;
+	color: #fff;
+	text-shadow: none;
+}
+
+*, *:before, *:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing   : border-box;
+	box-sizing        : border-box;
+}
+/*--------------------------------------------------------------
+Typography
+
+font-family: 'Montserrat Subrayada', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sorts Mill Goudy', serif;
+font-family: 'Cutive Mono', monospace;
+--------------------------------------------------------------*/
+
+body, pre {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 120%;
+}
+
+
+
+h1, h2, h3 {
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+#date,
+#permalink,
+#tags {
+	font-family: 'Cutive Mono', monospace;
+	font-weight: bold;
+
+}
+
+p {
+	font-size: 120%;
+	font-family: 'Sorts Mill Goudy', serif;
+	/*font-weight: bold;*/
+}
+
+blockquote {
+	font-size: 120%;	
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*--------------------------------------------------------------
+Floating elements
+--------------------------------------------------------------*/
+
+#logo {
+	position: absolute;
+	bottom: 6rem;
+	left: 4rem;
+
+	width: 6rem;
+}
+
+#title {
+	position: absolute;
+	top: 40rem;
+	left: 5rem;
+
+	margin: 0;
+	color: rgba(0,0,0,0.3);
+	font-size: 7rem;
+	line-height: 7rem;
+}
+	h1.hypertitle::before {
+		content: "— ";
+	}
+
+#name {
+	position: absolute;
+	top: 20rem;
+	left: 10rem;
+
+	margin: 0;
+
+	color: rgba(255,0,0,0.5);
+	font-size: 4rem;
+	line-height: 5rem;
+}
+
+#date {
+	display: block;
+	position: absolute;
+	top: 2rem;
+	right: 4rem;
+
+	margin: 0;
+
+	color: rgba(0,0,255,0.5);
+	font-size: 5rem;
+	font-style: italic;
+	white-space: nowrap;
+
+	-webkit-transform: rotate(-90deg);
+	transform        : rotate(-90deg);
+	-webkit-transform-origin: bottom right;
+	transform-origin        : bottom right;
+}
+
+#permalink {
+	display: block;
+	position: absolute;
+	bottom: 4rem;
+	right: 4rem;
+
+	color: rgba(0,0,255,1);
+	text-decoration: none;
+	border-bottom: 2px dashed rgba(0,0,255,1);
+	font-size: 1.5rem;
+
+	-webkit-transform: rotate(90deg);
+	transform        : rotate(90deg);
+	-webkit-transform-origin: bottom right;
+	transform-origin        : bottom right;
+}
+
+#tags {
+	position: absolute;
+	bottom: 6rem;
+	right: 6rem;
+
+	color: rgba(255,0,0,0.5);
+	font-size: 1.5rem;
+	font-weight: bold;
+	letter-spacing: 4px;
+}
+	#tags li {
+		list-style: none;
+	}
+	#tags li:before {
+		content: "#";
+	}
+
+/*--------------------------------------------------------------
+Body elements
+--------------------------------------------------------------*/
+
+
+h2 {
+	margin: 4rem 0 0 0;
+	padding: 0;
+
+	font-size: 3rem;
+	color: #000;
+}
+
+h3 {
+	display: inline-block;
+
+	margin: 4rem 0 0 0;
+	padding: 0;	
+	line-height: 1.8rem;
+
+	/* damn Chrome has a bug that won’t print
+	linear-gradient backgrounds */
+	background-image: linear-gradient(#000, #000);
+	background-repeat: repeat-x;
+	background-position: 0 95%;
+	background-size: 1px 2px;
+
+	text-shadow: 0.03em 0px #fff, -0.03em 0px #fff, 0px 0.03em #fff, 0px -0.03em #fff, 0.2em 0px #fff, -0.2em 0px #fff, 0.09em 0px #fff, -0.09em 0px #fff, 0.12em 0px #fff, -0.12em 0px #fff, 0.15em 0px #fff, -0.15em 0px #fff;
+}
+	h2 + h3 {
+		margin: 1rem 0 0 0;
+	}
+
+p {
+	margin: 1rem 0;
+	padding: 0;
+
+	line-height: 1.4;
+
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+em {
+	display: inline-block;
+
+	padding: 0 0.5rem;
+
+	color: #fff;
+	background: rgba(255,0,0,0.5);
+}
+
+blockquote {
+	margin: 2rem;
+	padding: 2rem;
+
+	border: 4px solid blue;
+	border-right: none;
+	border-bottom: none;
+	color: blue;
+}
+
+.dropcap:first-letter {
+	float: left;
+	padding: 0.5rem 1rem 0 0;
+
+	color: rgba(0,0,255, 0.3);
+	font-family: Georgia;
+	font-size: 4rem;
+	line-height: 3rem;
+}
+
+/*--------------------------------------------------------------
+Images
+--------------------------------------------------------------*/
+
+img.backdrop {
+	position: absolute;
+	opacity: 0.8;
+
+	-webkit-mix-blend-mode: multiply;
+	mix-blend-mode        : multiply;
+}
+
+img.darken {
+	-webkit-mix-blend-mode: multiply;
+	mix-blend-mode        : multiply;
+}
+
+img.none {
+	display: none;
+}
+
+/*--------------------------------------------------------------
+other
+--------------------------------------------------------------*/
+
+small {
+	display: inline-block;
+
+	font-size: 0.75rem;
+}
+
+hr {
+	margin: 1.5rem 0;
+	height: 3rem;
+	overflow: hidden;
+
+	border: 0;
+}
+	hr:before {
+		content: '* * *'; /* ✻ */
+
+		display: block;
+
+		font-size: 3rem;
+		text-align: center;
+
+		opacity: .5;
+	}

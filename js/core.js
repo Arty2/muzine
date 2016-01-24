@@ -20,9 +20,15 @@ function get_vars( url ) {
 }
 
 var url = document.URL;
-var query = get_vars(url)['q'].split(',');
 
-console.log(query);
+if (typeof get_vars(url)['q'] != 'undefined') {
+	var query = get_vars(url)['q'].split(',');
+	console.log(query[0]);
+}
+else {
+	jQuery('#content').append('<a id="notice" href="?q=8,0,1,3,4,6,7">surprise me!</a>');
+}
+
 
 /*--------------------------------------------------------------
 Seed random

@@ -100,6 +100,18 @@ blockquote {
 Floating elements
 --------------------------------------------------------------*/
 
+#notice {
+	display: inline-block;
+
+	padding: 2rem;
+	background: #444;
+	color: yellow;
+	font-size: 3rem;
+
+	-webkit-transform: skew(-15deg);
+	transform        : skew(-15deg);
+}
+
 #logo {
 	position: absolute;
 	bottom: 6rem;
